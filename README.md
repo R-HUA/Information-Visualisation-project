@@ -1,5 +1,6 @@
-﻿# IV-project
+﻿# Information Visualisation (GEOM90007_2022_SM2)
 
+## Project
 Please only open the index.html file to try our website.
 
 The interface includes six tabs:
@@ -22,5 +23,5 @@ The interface includes six tabs:
 6. About
     It shows the dataset analysis of our website.
 
-GitHub Link: https://github.com/zhuzz4/IV-project.git
+
 Tableau Public Link: https://public.tableau.com/views/A3_V6/POIDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
